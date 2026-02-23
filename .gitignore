@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.env
+.env.local
+*.log
+.DS_Store
+
+GITHUB_GUIDE.md
+HOW_TO_RUN.md
+README.md
+SCALING.md
+STEP_BY_STEP_GUIDE.md
+API.md
+
+DATABASE.md
+QUICKSTART_MONGODB.md
